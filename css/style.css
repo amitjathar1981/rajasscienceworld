@@ -1,0 +1,88 @@
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* Navbar */
+.navbar-container {
+  background-color: #122c91;
+}
+
+.navbar-brand {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-link {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+/* Title  */
+.title-container {
+background-image: url("../images/title-background.jpg");
+background-color: #cccccc;
+height: 500px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+text-align: center;
+padding: 10% 20%;
+color: white;
+}
+
+
+/* Topics Cards */
+
+.topics-heading {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.card {
+  text-align: center;
+  border-color: #122c91;
+}
+.card-images {
+  height: 200px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-text {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+/* Footer */
+#footer {
+  padding: 10px 15%;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+/* ============================================================= */
+
+/* Weather page */
+.weather-container {
+  background-image: url("../images/weather-background.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  padding: 10% 20%;
+  color: white;
+}
