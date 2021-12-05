@@ -1,11 +1,19 @@
 h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 36px;
 }
 
 p {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 400;
+  font-size: 24px;
 }
 
 /* Navbar */
@@ -69,6 +77,10 @@ color: white;
   text-align: center;
   color: white;
   background-color: black;
+}
+
+.footer-text {
+  font-size: 12px;
 }
 
 /* ============================================================= */
